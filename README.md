@@ -1,0 +1,2 @@
+# peoplecounter-using-HC-SR04-WITH-AND-WITHOUT-NEWPING-LIBRARY
+People count IN A ROOM IN AND EXIT
